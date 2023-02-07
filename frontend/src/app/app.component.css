@@ -1,0 +1,34 @@
+.body{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  overflow: hidden;
+  background-color: gray;
+  height: 100vh;
+}
+
+::ng-deep * {
+
+  margin: 0;
+  padding: 0;
+}
+
+#toolbar{
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background-color: blue;
+  width: fit-content;
+  border-radius: 30px;
+  height: 80vh;
+  justify-content: space-between;
+  border: 2px solid white;
+}
+
+button{
+  font-size:1.15em;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: white;
+}

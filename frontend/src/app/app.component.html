@@ -1,0 +1,32 @@
+<div class="body" id="body">
+  <div id="toolbar">
+    <div>
+      <button id="machine" (click)="createMachine();restButtons()"><i class="fa-solid fa-plus"></i>   Add Machine</button>
+    </div>
+    <div>
+      <button id="queue" (click)="createQueue();restButtons()"><i class="fa-solid fa-plus"></i>   Add Queue</button>
+    </div>
+    <div>
+      <button id="line" (click)="createLine();restButtons()"><i class="fa-solid fa-arrow-up"></i>  Connect
+        Elements</button>
+    </div>
+    <div id="run">
+      <button (click)="run()"><i class="fa-solid fa-circle-play"></i>  Play</button>
+    </div>
+    <div id="replay">
+      <button (click)="replay()"><i class="fa-solid fa-retweet"></i>  Replay</button>
+    </div>
+    <div id="stopInput">
+      <button (click)="stopInput()"><i class="fa-solid fa-stop"></i>  Stop Input</button>
+    </div>
+    <div id="clear">
+      <button (click)="clearAll()"> Erase All</button>
+    </div>
+  </div>
+
+  <canvas id="mainField" width="1355" height="690"
+    style=" background-color: white; margin-left: 50px;border-radius: 25px; border:3px solid black">
+
+  </canvas>
+
+</div>
