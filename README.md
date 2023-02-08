@@ -7,7 +7,7 @@
 - [How to run](#How-to-run)
 - [Used design patterns](#used-design-patterns)
 - [UML class diagram](#UML-class-diagram)
-- [How the system works](#How the system works)
+- [How the system works](#How-the-system-works)
 - [Snapshots of our UI and a user guide](#Snapshots-of-our-UI-and-a-user-guide)
 - [Demo Video for using the app](https://drive.google.com/file/d/1KxoaJ3f35Mj0JeUR0waJdIBGYsV23Grj/view)
 ---
