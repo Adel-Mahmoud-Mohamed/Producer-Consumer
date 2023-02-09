@@ -9,7 +9,7 @@
 - [UML class diagram](#UML-class-diagram)
 - [How the system works](#How-the-system-works)
 - [Snapshots of our UI and a user guide](#Snapshots-of-our-UI-and-a-user-guide)
-- [Demo Video for using the app](https://drive.google.com/file/d/1KxoaJ3f35Mj0JeUR0waJdIBGYsV23Grj/view)
+- [Demo Video for using the app](#Demo-Video-for-using-the-app)
 ---
 ## Contributers:
 * [Adel Mahmoud](https://github.com/Adel-Mahmoud-Mohamed)
@@ -89,4 +89,4 @@ The queue Q0 is added by default initially.
 
 ---
 ## Demo Video for using the app:
-- [link to the video](https://drive.google.com/file/d/1KxoaJ3f35Mj0JeUR0waJdIBGYsV23Grj/view)
+https://user-images.githubusercontent.com/96317608/217939091-4592c81a-134f-463e-a795-dfd6660f7c72.mp4
